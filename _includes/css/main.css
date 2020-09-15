@@ -338,6 +338,7 @@ nav ul li:hover, nav ul li.active {
   .sectiondivider img {
     width:150px;
     height:180px;
+    /* width: 100%; */
   }
   .sectiondivider .fa-stack {
     font-size: 100px;
